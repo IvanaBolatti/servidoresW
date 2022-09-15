@@ -1,0 +1,17 @@
+[
+  {
+    "nombreProducto": "azucar",
+    "precioProducto": 120,
+    "idProducto": 1
+  },
+  {
+    "nombreProducto": "aceite",
+    "precioProducto": 300,
+    "idProducto": 2
+  },
+  {
+    "nombreProducto": "sal",
+    "precioProducto": 250,
+    "idProducto": 3
+  }
+]
